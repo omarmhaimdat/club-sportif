@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Club Sportif",
-    "currentPage": "index.html",
+    "currentPage": "evenements.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3060,7 +3060,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Agadir 2017",
@@ -3102,7 +3102,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3115,7 +3115,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3128,7 +3128,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3141,7 +3141,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3151,7 +3151,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
