@@ -65,13 +65,16 @@
     "uniqCompNum": 186,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
-    "siteUrl": "",
+    "siteUrl": "https://sport.ex-machina.ma",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/untitled-design-2-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-91497908-7\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-91497908-7');\r\n</script>",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
