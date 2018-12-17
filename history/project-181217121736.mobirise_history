@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "versionFirst": "4.8.5",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "index.html",
+    "versionPublish": "4.8.5"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
