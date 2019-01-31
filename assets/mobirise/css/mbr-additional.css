@@ -16643,11 +16643,12 @@ body {
   border-radius: 50%;
 }
 .cid-rbD59H5nBh {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #232323;
 }
 .cid-rbD59H5nBh .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rbD59H5nBh .mbr-figure {
   margin: 0 auto;
