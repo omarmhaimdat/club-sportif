@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "versionFirst": "4.8.5",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "page1.html",
+    "versionPublish": "4.8.5",
+    "name": "Club Sportif",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "uniqCompNum": 0
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": []
+    }
+  }
+}
